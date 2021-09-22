@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Solver
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=a\ b\ c
+comment2.target=void\ quadratic(double,\ double,\ double)
+comment3.params=x1\ y1\ x2\ y2
+comment3.target=void\ slope(double,\ double,\ double,\ double)
+comment4.params=x1\ y1\ x2\ y2
+comment4.target=void\ midpoint(double,\ double,\ double,\ double)
+comment5.params=a1\ n\ d
+comment5.target=void\ series(double,\ double,\ double)
+comment6.params=a1\ n\ r
+comment6.target=void\ geom(double,\ double,\ double)
+numComments=7
